@@ -1,12 +1,27 @@
-# colorprint-c
-Use cout with color
+# colorprint
+Use languages' print functions with color
 
-colorprint is a C++ header file. To use it in your code, first make sure the 'color.h' file is in your current working directory.
-
+## Usage
+### ![C++]()
 Put this in your header.
-
 ```console
-#include "color.h"
+#include "colorprint.h"
+```
+Make sure colorprint.h is in your current working directory.
+
+To use run something like
+```console
+colorprint("red", "Hello, World!");
+```
+### ![Python]()
+Import the `os` module and `chdir` into the directory to which you downloaded colorprint.
+Use import to import colorprint.
+```console
+import colorprint
+```
+To use, run something like
+```console
+colorprint.go('cyan', 'Hello, World!')
 ```
 
-To use, run something like `colorprint("red", "Hello, World!");`
+For help, run `colorprint.help()`.
