@@ -1,5 +1,9 @@
 # colorprint
 Use languages' print functions with color (Only in command line)
+## Get it
+<a href = "https://raw.githubusercontent.com/aarikpokras/colorprint/main/colorprint.h"><img src = "https://img.shields.io/badge/colorprint-get%20it-blue?style=for-the-badge&logo=c%2b%2b" alt = "Get it - C++" /></a>
+
+<a href = "https://raw.githubusercontent.com/aarikpokras/colorprint/main/colorprint.py"><img src = "https://img.shields.io/badge/colorprint-get%20it-blue?style=for-the-badge&logo=python" alt = "Get it - Python"></a>
 
 ## Usage
 ### ![C++]()
