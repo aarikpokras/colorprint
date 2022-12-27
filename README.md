@@ -1,5 +1,5 @@
 # colorprint
-Use languages' print functions with color
+Use languages' print functions with color (Only in command line)
 
 ## Usage
 ### ![C++]()
