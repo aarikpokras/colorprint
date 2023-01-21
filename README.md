@@ -6,7 +6,7 @@ Use languages' print functions with color (Only in command line)
 <a href = "https://raw.githubusercontent.com/aarikpokras/colorprint/main/colorprint.py"><img src = "https://img.shields.io/badge/colorprint-get%20it-blue?style=for-the-badge&logo=python" alt = "Get it - Python"></a>
 
 ## Usage
-### ![C++]()
+### [C++]()
 Put this in your header.
 ```console
 #include "colorprint.h"
@@ -17,7 +17,7 @@ To use run something like
 ```console
 colorprint("red", "Hello, World!");
 ```
-### ![Python]()
+### [Python]()
 Import the `os` module and `chdir` into the directory to which you downloaded colorprint.
 Use import to import colorprint.
 ```console
